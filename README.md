@@ -8,3 +8,7 @@ TIme
 
 RAM
 ![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/ac2182c3-30e7-46e5-96f4-af19895fb97b)
+
+![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/b450f5ed-d9c5-49b4-bcf7-8098678b9763)
+
+![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/00ec6303-5ef5-41ab-9bf9-e93a2521e631)
