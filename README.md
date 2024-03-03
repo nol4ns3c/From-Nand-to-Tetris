@@ -16,6 +16,9 @@ RAM
 ![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/76a17c40-3a3c-47b8-90b0-cba33aa75f6b)
 ![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/916d0cb4-7ea9-441e-a4a4-8fcc4651c1bd)
 
+![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/eceb8c4d-efe0-4e13-b977-ac9f50aaafb7)
+
+
 ![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/21ea44c2-78f9-46c6-8d81-c62dc5dc0d86)
 
 ![image](https://github.com/nol4ns3c/From-Nand-to-Tetris/assets/113341404/161c5230-2051-496e-9514-40f3947bd1e6)
